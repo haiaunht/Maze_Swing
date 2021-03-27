@@ -1,5 +1,4 @@
-/**
- * @author tomabot
+/*
  * <p>
  * The following code is an excerpt from "Data Structures and Algorithms Analysis in Java", third
  * edition by Mark Allen Weiss.

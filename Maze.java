@@ -1,13 +1,3 @@
-/**
- * Hai-Au Bui, Final
- * Professor Abbott
- * I am define several private classes in this maze class
- * I kept your MazeClient original and test with Maze (6,4), Maze(40,25),...Maze(80, 50)
- * I have added one EXTRA method allConnected() in YOUR DisjoinSet.java,
- * So please use my version of DisjointSet java file. Thanks Tom!
- * Everything working nicely :).
- */
-
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Dimension;

@@ -93,7 +93,7 @@ public class Maze {
       disjointSet.find(k);
     }
 
-//    // TODO: Tom, if you just want a maze without its solution, comment this back, then comment out solutionPath() on line 51
+//    // TODO: if you just want a maze without its solution, comment this back, then comment out solutionPath() on line 51
 //    // open the first cell's west wall and last cell's east wall
 //    cells[0].walls[WEST] = totalCell;
 //    cells[totalCell-1].walls[EAST] = totalCell;
